@@ -35,7 +35,7 @@ View the live site: [https://yourusername.github.io/portfolio/](https://youruser
 
 ### Installation
 
-1. Clone this repository:
+1. Clone this repository: https://github.com/SAIMON-AHMED/portfoliowebsite.git
 
 2. Open the folder:
 
